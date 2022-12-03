@@ -1,0 +1,19 @@
+{
+    "name": "MC.Proejct.Character.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:878866e915b7a4a57973c7eacf4f7c46",
+        "GUID:dcc226806ac3e4eab802b86b5a81f025"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

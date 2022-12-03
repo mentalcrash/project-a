@@ -1,0 +1,16 @@
+{
+    "name": "Mc.Project.Character",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5d788bb60ef574d27a3c5afb22269301"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

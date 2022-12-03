@@ -1,0 +1,18 @@
+{
+    "name": "MC.Project.Core.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5d788bb60ef574d27a3c5afb22269301"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
