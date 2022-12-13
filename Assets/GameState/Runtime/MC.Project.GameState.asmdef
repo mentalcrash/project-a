@@ -1,5 +1,5 @@
 {
-    "name": "MC.Project.Character",
+    "name": "MC.Project.GameState",
     "rootNamespace": "",
     "references": [
         "GUID:5d788bb60ef574d27a3c5afb22269301"

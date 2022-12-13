@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8ee7528cffaa4e84bcb904e5fbe3fe5b, type: 3}
-  m_Name: SampleCharacgter
+  m_Script: {fileID: 11500000, guid: e372567b6cf1406d90b7907975e50e9d, type: 3}
+  m_Name: InGameLevel1
   m_EditorClassIdentifier: 
-  model: {fileID: 0}
+  scene: {fileID: 102900000, guid: 787bcfed15a8b4bf0ae4692fb9827a92, type: 3}

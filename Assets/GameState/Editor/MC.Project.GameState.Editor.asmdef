@@ -1,10 +1,12 @@
 {
-    "name": "MC.Project.Character",
+    "name": "MC.Project.GameState.Editor",
     "rootNamespace": "",
     "references": [
-        "GUID:5d788bb60ef574d27a3c5afb22269301"
+        "GUID:66d93567c7b534c51ae9725d66bc47d3"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
