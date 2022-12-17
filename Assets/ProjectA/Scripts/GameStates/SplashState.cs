@@ -13,7 +13,7 @@ namespace MC.Project.A.GameStates
 
         public void OnLeave()
         {
-            
+            Debug.Log( "Leave Splash State" );
         }
     }
 }

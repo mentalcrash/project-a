@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   stateName: Splash
   sceneAsset: {fileID: 102900000, guid: ebd6caf8a182749b6b822a6f200f6147, type: 3}
-  prefab: {fileID: 0}
-  subGameState: []
+  forceReload: 0
+  prefabs:
+  - {fileID: 3750654595349997529, guid: bed99ffceb5ee4a64bd5a5e4cbc5b52f, type: 3}
